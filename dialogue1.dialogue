@@ -1,7 +1,8 @@
 ~ this_is_a_node_title
 
 Nathan: [[Hi|Hello|Howdy]], this is some dialogue.
-Nathan: Here are some choices.
+Bob: [wave amp=25 freq=5]Hello as well.[/wave]
+Nathan: Here are some [shake rate=20 level=10]choices[/shake].
 - First one
 	Nathan: You picked the first one.
 - Second one
