@@ -5,10 +5,15 @@ Bob: [wave amp=25 freq=5]Hello as well.[/wave]
 Nathan: Here are some [shake rate=20 level=10]choices[/shake].
 - First one
 	Nathan: You picked the first one.
+	=> option_1
 - Second one
 	Nathan: You picked the second one.
+	Bob: option 1 was better.
 - Start again => this_is_a_node_title
 - End the conversation => END
 Nathan: For more information see the online documentation.
+=> END
 
+~ option_1
+Bob: option 2 was better
 => END
